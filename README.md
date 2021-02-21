@@ -8,10 +8,10 @@
 
 ## Team members:
 
-Seoungyeon Back (Julia) : s3805769@student.rmit.edu.au
+1. Seoungyeon Back (Julia) : s3805769@student.rmit.edu.au
 
-Vijay Lakshmanan Iyer: s3797863@student.rmit.edu.au
+2. Vijay Lakshmanan Iyer: s3797863@student.rmit.edu.au
 
-Xian Jing Wong: s3772149@student.rmit.edu.au
+3. Xian Jing Wong: s3772149@student.rmit.edu.au
 
-Yufei Wang (Emily)：s3246253@student.rmit.edu.au
+4. Yufei Wang (Emily)：s3246253@student.rmit.edu.au
