@@ -6,7 +6,7 @@
 - Data modelling was applied on the dataset to predict the sales price of given input variables.
 - Website with API was developed as the solution of our study.
 
-Team members:
+##Team members:
 
 Seoungyeon Back (Julia) : s3805769@student.rmit.edu.au
 
